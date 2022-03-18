@@ -1,11 +1,12 @@
-import './App.css';
 import NoteContainer from './Components/NoteContainer/NoteContainer';
+import Sidebar from './Components/Sidebar/Sidebar';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <NoteContainer/>
-
+      <Sidebar />
+      <NoteContainer />
     </div>
   );
 }

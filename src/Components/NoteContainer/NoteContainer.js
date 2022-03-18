@@ -7,56 +7,56 @@ function NoteContainer() {
   return (
     <div className="note-container">
       <h2>Notes</h2>
-      <div className="note-container_notes">
+      <div className="note-container_notes custom-scroll">
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
         <Note note={{
           text: "adfasfa",
           time: "4:32PM",
-          color: "cyan"
+          color: "cyan",
         }} />
       </div>
     </div>
